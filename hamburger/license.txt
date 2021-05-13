@@ -1,0 +1,11 @@
+Model Information:
+* title:	Handpainted Hamburger
+* source:	https://sketchfab.com/3d-models/handpainted-hamburger-7ade5a1232a94b88bd4c94f01d962292
+* author:	AlphaEntity (https://sketchfab.com/AlphaEntity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handpainted Hamburger" (https://sketchfab.com/3d-models/handpainted-hamburger-7ade5a1232a94b88bd4c94f01d962292) by AlphaEntity (https://sketchfab.com/AlphaEntity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
